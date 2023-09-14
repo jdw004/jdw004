@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdw004&label=Profile%20views&color=0e75b6&style=flat" alt="jdw004" /> </p>
 
-- 🔭 I’m currently working on **International Data Science Challenge**
+- 🔭 I’m currently working on **Personal Java Project**
 
 - 🌱 I’m currently learning **Harvard's CS50 Introductory Course to CS**
 
