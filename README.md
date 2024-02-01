@@ -13,8 +13,8 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Birmingham, AL.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- ⚡ In my free time I solve problems on Codewars.
+- 🔭 I’m working as a Software Engineer and expanding my skills in frontend and backend development.
+- ⚡ In my free time I enjoy playing basketball, reading novels, and working on personal projects.
 
 ---
 
