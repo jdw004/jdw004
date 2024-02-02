@@ -13,7 +13,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Birmingham, AL.
 
-- 🔭 I’m working as a Software Engineer and expanding my skills in frontend and backend development.
+- 🔭 I’m working as a Software Engineer and expanding my skills in full stack development.
 - ⚡ In my free time I enjoy playing basketball, reading novels, and working on personal projects.
 
 ---
