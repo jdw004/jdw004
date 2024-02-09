@@ -5,7 +5,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jdw004&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">Welcome to my Github </h1>
+<h1 align="center">Welcome to my Github! </h1>
 
 ### :man_technologist: &nbsp;About Me :
 
