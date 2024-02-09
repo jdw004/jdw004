@@ -5,9 +5,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jdw004&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there </h1>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<h1 align="center">Welcome to my Github </h1>
 
 ### :man_technologist: &nbsp;About Me :
 
