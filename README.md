@@ -9,9 +9,8 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer from Birmingham, AL.
+I am a Developer from Birmingham, AL.
 
-- 🔭 I’m working as a Software Engineer and expanding my skills in full stack development.
 - ⚡ In my free time I enjoy playing basketball, reading novels, and working on personal projects.
 
 ---
