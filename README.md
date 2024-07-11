@@ -7,14 +7,6 @@
 
 <h1 align="center">Welcome to my Github! </h1>
 
-### :man_technologist: &nbsp;About Me :
-
-I am a Developer from Birmingham, AL.
-
-- ⚡ In my free time I enjoy playing basketball, reading novels, and working on personal projects.
-
----
-
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
