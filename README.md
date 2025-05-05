@@ -1,6 +1,12 @@
 
 ## 🌐 Socials:
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/johnd-welch/)
+<a href="https://www.linkedin.com/in/johnd-welch/">
+  <img
+    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
+    alt="LinkedIn"
+    width="160"
+  />
+</a>
 
 
 # 📊 GitHub Stats:
