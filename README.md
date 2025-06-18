@@ -34,9 +34,6 @@ const aboutMe = {
     }
 }
 ```
-
-[![ProgressTracker](https://wakatime.com/badge/user/f2b5bf39-ede9-46b4-a375-e3c069906636.svg)](https://wakatime.com/@f2b5bf39-ede9-46b4-a375-e3c069906636)
-
 ## 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: center;">
