@@ -19,7 +19,7 @@ const aboutMe = {
 ```
 
 [![My Skills](https://skillicons.dev/icons?i=fastapi,flask,nodejs,html,linux,docker,aws,gcp,azure,heroku,nginx,vercel)](https://jdw004.github.io/portfolio/)
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,py,java,js,ts,cpp,mongodb,mysql,golang,postgres,postman)](https://jdw004.github.io/portfolio/)
+[![My Skills](https://skillicons.dev/icons?i=git,github,py,java,js,ts,cpp,mongodb,mysql,golang,postgres,postman)](https://jdw004.github.io/portfolio/)
 
 
 ## 🌐 Links:
