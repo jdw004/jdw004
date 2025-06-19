@@ -18,6 +18,10 @@ const aboutMe = {
 }
 ```
 
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,nodejs,html,linux,docker,aws,gcp,azure,heroku,nginx,vercel)](https://davidpeterson.me)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,py,java,js,mongodb,mysql,golang,javascript,postgres,linux,postman,vscode)](https://davidpeterson.me)
+
+
 ## 🌐 Links:
 <a href="https://www.linkedin.com/in/johnd-welch/">
   <img
