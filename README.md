@@ -17,10 +17,3 @@ const aboutMe = {
     }
 }
 ```
-<a href="https://www.linkedin.com/in/johnd-welch/">
-  <img
-    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
-    alt="LinkedIn"
-    width="80"
-  />
-</a>
