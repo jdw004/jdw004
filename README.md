@@ -9,7 +9,6 @@ const aboutMe = {
     experience: {
         curr: 'Software Engineering Intern at LPL Financial',
     },
-    workingOn: 'Twitter AI Stock Analysis',
     learning: 'How to build large-scale, high-throughput platforms',
     building: 'Stock Sentinel, a speedy stock analysis tool based on news headlines',
     socials: {
