@@ -19,4 +19,4 @@ const aboutMe = {
 }
 ```
 
-Check out my portfolio ---> https://jdw004.github.io/portfolio/
+Check out my portfolio ---> [https://www.john-welch.dev/]
