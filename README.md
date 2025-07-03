@@ -8,7 +8,7 @@ const aboutMe = {
     },
     experience: {
         curr: 'Software Engineering Intern at LPL Financial',
-        prev: 'SWE Intern at OCV', 'SWE Intern at LPL Financial', 'AI Undergraduate Research',
+        prev: 'SWE Intern at OCV', 'SWE Intern at LPL Financial', 'AI Undergraduate Research', 'Welch Sneaks',
     },
     learning: 'How to build large-scale, high-throughput platforms',
     building: 'Stock Sentinel, a speedy stock analysis tool based on news headlines',
