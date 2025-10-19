@@ -7,8 +7,8 @@ const aboutMe = {
         last: "Welch",
     },
     experience: {
-        curr: 'Software Engineering Intern at LPL Financial',
-        prev: ['SWE Intern at OCV', 'SWE Intern at LPL Financial', 'AI Undergraduate Research', 'Welch Sneaks'],
+        curr: 'GenAI Intern at Scale AI',
+        prev: ['\'25 SWE Intern at LPL Financial', SWE Intern at OCV', '\'24 SWE Intern at LPL Financial', 'AI Undergraduate Research', 'Welch Sneaks'],
     },
     learning: 'System design for performance at scale',
     building: 'Stock Sentinel, a speedy stock analysis tool based on news headlines',
