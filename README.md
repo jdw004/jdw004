@@ -8,7 +8,7 @@ const aboutMe = {
     },
     experience: {
         curr: 'GenAI Intern at Scale AI',
-        prev: ['LPL Financial', 'OCV', 'AI Undergraduate Research', 'Welch Sneaks'],
+        prev: ['LPL Financial x 2', 'OCV', 'AI Undergraduate Research', 'Welch Sneaks'],
     },
     learning: 'System design for performance at scale',
     building: 'Stock Sentinel, a speedy stock analysis tool based on news headlines',
