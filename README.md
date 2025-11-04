@@ -7,7 +7,7 @@ const aboutMe = {
         last: "Welch",
     },
     experience: {
-        curr: 'GenAI Intern at Scale AI',
+        curr: 'GenAI Intern at Scale AI', 'Incoming Winter SWE Intern @ Stripe',
         prev: ['LPL Financial x 2', 'OCV', 'AI Undergraduate Research', 'Welch Sneaks'],
     },
     learning: 'System design for performance at scale',
