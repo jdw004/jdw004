@@ -7,7 +7,7 @@ const aboutMe = {
         last: "Welch",
     },
     experience: {
-        curr: ['Incoming Winter SWE Intern at Stripe'],
+        curr: ['Incoming SWE Intern at Stripe'],
         prev: ['Scale AI', 'LPL Financial', 'OCV', 'AI Research'],
     },
     learning: 'System design for performance at scale',
